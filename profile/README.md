@@ -28,9 +28,9 @@ Use the commands below directly in our chat interface to navigate services and s
 
 ### 🌐 Official Channels & Support
 
-- **Secure Portal:** [Hacyber Transaction Portal](https://yourdomain.com/portal)
+- **Secure Portal:** [Hacyber Transaction Portal](https://hacyberglobal.dgdns.org/portal)
 - **Admin Support:** `@HacyberSupport`
-- **Official Email:** `support@hacyber.com`
+- **Official Email:** `support@hacyberglobal.dgdns.org`
 
 
 <!--
