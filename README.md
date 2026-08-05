@@ -6,7 +6,7 @@ Smart automation, CRM workflows, lead capture systems, and digital support solut
 
 HACYBERGLOBALTECH is a digital technology and automation platform focused on building practical tools that improve efficiency, customer engagement, and online growth. We create scalable web applications, workflow automations, and support systems designed for business operations and gig-economy onboarding.
 
-What We Do
+## What We Do
 
 * AI-powered automation systems
 * CRM and lead management tools
